@@ -1,2 +1,2 @@
 # amung-resolusi
-Repository untuk menimpan rencana saya kedepannya
+Repository untuk menyimpan rencana saya kedepannya
